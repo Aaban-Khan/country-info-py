@@ -43,9 +43,3 @@ try:
         print("❌ Invalid country name or not found.")
 except Exception as e:
     print(f"❗Something went Wrong: {e}")
-
-#  python -m venv .venv                                               
-# PS C:\Users\asus\Desktop\Python-Projects\Python-Projects\robo_speaker> .venv/Scripts/activate                                             
-# (.venv) PS C:\Users\asus\Desktop\Python-Projects\Python-Projects\robo_speaker> .venv/Scripts/activate                                     
-# (.venv) PS C:\Users\asus\Desktop\Python-Projects\Python-Projects\robo_speaker> pip install pyttsx3 
-# 
